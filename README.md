@@ -41,12 +41,7 @@ Self-taught developer who started scripting games in **Roblox** and **Minecraft*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HissuHere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HissuHere&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" height="170" />
-</p>
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HissuHere&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" width="95%"/>
@@ -60,14 +55,15 @@ Self-taught developer who started scripting games in **Roblox** and **Minecraft*
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://seshgame.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HissuHere&repo=sesh&theme=tokyonight&hide_border=true" alt="Sesh" />
+    <img src="https://img.shields.io/badge/Sesh-Real--time_Party_Game-3ECF8E?style=for-the-badge&logo=gamepad&logoColor=white" alt="Sesh" />
   </a>
+  <br/>
   <a href="https://weather-app-hissu.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HissuHere&repo=weather_app&theme=tokyonight&hide_border=true" alt="Weather App" />
+    <img src="https://img.shields.io/badge/Weatherly-Live_Weather_App-00B4D8?style=for-the-badge&logo=cloud&logoColor=white" alt="Weatherly" />
   </a>
-</div>
+</p>
 
 <p align="center">
   📌 <strong>Sesh</strong> — Real-time party web app. One shared room, live chat, and multiplayer mini-games fully synced across devices.
@@ -75,14 +71,6 @@ Self-taught developer who started scripting games in **Roblox** and **Minecraft*
   📌 <strong>Weatherly</strong> — Live weather with city search, current conditions, and a 7-day forecast from the Open-Meteo API.
   <br/>
   📌 <strong>Portfolio</strong> — My personal portfolio and resume site.
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HissuHere&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="95%"/>
 </p>
 
 ---
