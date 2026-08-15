@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Self-taught developer who started scripting games in **Roblox** and **Minecraft** and just kept going. Today I build **responsive, real-time web apps** and ship whatever I'm curious about.
+Self-taught developer who started scripting games in **Roblox** and just kept going. Today I build **responsive, real-time web apps** and ship whatever I'm curious about.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HissuHere&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="60%"/>
