@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/HissuHere/HissuHere/main/assets/banner.svg" alt="Banner" width="85%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Amir;Full+Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+JavaScript;Bridging+frontend+and+backend" alt="Typing SVG" />
 </p>
 
@@ -48,7 +52,7 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
 </div>
 
 <div align="center">
-  <img src="https://github.com/HissuHere/HissuHere/raw/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HissuHere&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
