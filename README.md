@@ -3,12 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Amir;Full+Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+JavaScript;Bridging+frontend+and+backend" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00B4D8?style=flat-square&logo=map&logoColor=white" alt="Location ">
-  <img src="https://img.shields.io/badge/Portfolio-hasnain.is--a--dev-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00B4D8?style=flat-square&logo=map&logoColor=white" alt="Location">
+  <a href="https://hasnain.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-hasnain.is--a--dev-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
   <img src="https://img.shields.io/badge/Coding_From-2023-FF6B6B?style=flat-square&logo=terminal&logoColor=white" alt="Coding Since">
 </p>
 
@@ -29,49 +27,46 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HissuHere&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HissuHere&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="60%"/>
-</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://seshgame.vercel.app">
-    <img src="https://img.shields.io/badge/Sesh-Real--time_Party_Game-3ECF8E?style=for-the-badge&logo=gamepad&logoColor=white" alt="Sesh" />
-  </a>
-  <br/>
-  <a href="https://weather-app-hissu.vercel.app">
-    <img src="https://img.shields.io/badge/Weatherly-Live_Weather_App-00B4D8?style=for-the-badge&logo=cloud&logoColor=white" alt="Weatherly" />
-  </a>
-</p>
-
-<p align="center">
-  📌 <strong>Sesh</strong> — Real-time party web app. One shared room, live chat, and multiplayer mini-games fully synced across devices.
-  <br/>
-  📌 <strong>Weatherly</strong> — Live weather with city search, current conditions, and a 7-day forecast from the Open-Meteo API.
-  <br/>
-  📌 <strong>Portfolio</strong> — My personal portfolio and resume site.
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://seshgame.vercel.app">
+        <b>Sesh</b>
+      </a>
+      <br/>
+      <sub>Real-time party web app with live chat and multiplayer mini-games</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://weather-app-hissu.vercel.app">
+        <b>Weatherly</b>
+      </a>
+      <br/>
+      <sub>Live weather with city search and 7-day forecast</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://hasnain.is-a.dev">
+        <b>Portfolio</b>
+      </a>
+      <br/>
+      <sub>Personal portfolio and resume site</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -90,10 +85,6 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
   <a href="https://instagram.com/hissuhere">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HissuHere&style=flat-square&color=00F7FF" alt="Profile Views" />
 </p>
 
 <p align="center">
