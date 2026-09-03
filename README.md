@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00B4D8?style=flat-square&logo=map&logoColor=white" alt="Location ">
-  <img src="https://img.shields.io/badge/Portfolio-hasnainamir.vercel.app-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-hasnain.is--a--dev-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   <img src="https://img.shields.io/badge/Coding_From-2023-FF6B6B?style=flat-square&logo=terminal&logoColor=white" alt="Coding Since">
 </p>
 
@@ -78,7 +78,7 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://hasnainamir.vercel.app">
+  <a href="https://hasnain.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://github.com/HissuHere">
