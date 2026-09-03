@@ -1,20 +1,35 @@
+<h1 align="center">Hey there! 👋 I'm Hasnain Amir</h1>
+
+<h3 align="center">Full Stack Developer | React • Tailwind • JavaScript</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HissuHere/HissuHere/main/assets/banner.svg" alt="Banner" width="85%"/>
+  <em>"Always Building — Always Learning"</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00B4D8?style=flat-square&logo=map&logoColor=white" alt="Location">
   <a href="https://hasnain.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-hasnain.is--a--dev-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <img src="https://img.shields.io/badge/Coding_From-2023-FF6B6B?style=flat-square&logo=terminal&logoColor=white" alt="Coding Since">
+  <a href="https://github.com/HissuHere">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/Hasnain28833841">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/hissuhere">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Self-taught developer who started scripting games in **Roblox** and just kept going. Today I build **responsive, real-time web apps** and ship whatever I'm curious about.
+- 🎮 Started as a **Roblox** game scripter, now building **real-time web apps**
+- 🌍 Based in **Lahore, Pakistan**
+- 💡 Self-taught developer passionate about **frontend & backend**
+- 🚀 Currently learning **Node.js & Express** for backend development
+- 📚 Always exploring new technologies and frameworks
 
 ---
 
@@ -31,7 +46,6 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
@@ -43,26 +57,26 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
   <tr>
     <td align="center" width="50%">
       <a href="https://seshgame.vercel.app">
-        <b>Sesh</b>
+        <b>🎮 Sesh</b>
       </a>
       <br/>
-      <sub>Real-time party web app with live chat and multiplayer mini-games</sub>
+      <sub>Real-time party web app with live chat & multiplayer mini-games</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://weather-app-hissu.vercel.app">
-        <b>Weatherly</b>
+        <b>🌤️ Weatherly</b>
       </a>
       <br/>
-      <sub>Live weather with city search and 7-day forecast</sub>
+      <sub>Live weather with city search & 7-day forecast</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://hasnain.is-a.dev">
-        <b>Portfolio</b>
+        <b>💼 Portfolio</b>
       </a>
       <br/>
-      <sub>Personal portfolio and resume site</sub>
+      <sub>Personal portfolio & resume site</sub>
     </td>
     <td></td>
   </tr>
@@ -70,22 +84,14 @@ Self-taught developer who started scripting games in **Roblox** and just kept go
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://hasnain.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-  <a href="https://github.com/HissuHere">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/Hasnain28833841">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hissuhere">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HissuHere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HissuHere&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
+
+---
 
 <p align="center">
   <em>✨ Always learning, always building. Thanks for stopping by! ✨</em>
