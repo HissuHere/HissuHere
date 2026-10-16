@@ -59,8 +59,8 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://seshgame.vercel.app">
-        <b>🎮 Sesh</b>
+      <a href="https://kroop.vercel.app">
+        <b>🎮 Kroop</b>
       </a>
       <br/>
       <sub>Real-time party web app with live chat & multiplayer mini-games</sub>
