@@ -1,99 +1,61 @@
-<h1 align="center">Hey there! 👋 I'm Hasnain Amir</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Hasnain Amer, full stack developer in Lahore, Pakistan. Now a full stack intern at Visor Dynamics." src="assets/header-light.svg" width="100%">
+</picture>
 
-<h3 align="center">Full Stack Developer | React • Tailwind • JavaScript</h3>
+I started out scripting games on Roblox and running Minecraft servers, and I kept going. Now I build full stack web apps with React, Node and Supabase, and I'm doing my first internship as a full stack developer at [Visor Dynamics](https://visordynamics.uk).
 
-<p align="center">
-  <em>"Always Building — Always Learning"</em>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasnain.is--a.dev-0B7F62?style=flat-square)](https://hasnain.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasnain--amer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-amer/)
+[![X](https://img.shields.io/badge/X-@hasnainirl-131A2B?style=flat-square&logo=x&logoColor=white)](https://x.com/hasnainirl)
+[![Instagram](https://img.shields.io/badge/Instagram-builtbyhissu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/builtbyhissu)
+[![Email](https://img.shields.io/badge/Email-Say_hi-E9B44C?style=flat-square&logo=gmail&logoColor=131A2B)](mailto:hasnainamironly@gmail.com)
 
-<p align="center">
-  <a href="https://hasnain.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/HissuHere">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/Hasnain28833841">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/hissuhere">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+## Things I've shipped
 
----
-
-## 🧑‍💻 About Me
-
-- 🎮 Started as a **Roblox** game scripter, now building **real-time web apps**
-- 🌍 Based in **Lahore, Pakistan**
-- 💡 Self-taught developer passionate about **frontend & backend**
-- 🚀 Currently learning **Node.js & Express** for backend development
-- 📚 Always exploring new technologies and frameworks
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <br/>
-  <!-- Backend & Tools -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://kroop.vercel.app">
-        <b>🎮 Kroop</b>
-      </a>
-      <br/>
-      <sub>Real-time party web app with live chat & multiplayer mini-games</sub>
+    <td width="33%" valign="top">
+      <a href="https://local-drop-hissu.vercel.app"><img src="assets/projects/localdrop.png" alt="LocalDrop app screenshot"></a>
+      <h3><a href="https://local-drop-hissu.vercel.app">LocalDrop</a></h3>
+      AirDrop-style file sharing in the browser. Devices find each other, and files go straight from one to the other with live speed and ETA. No upload, no sign up.
+      <br><br>
+      <sub>React · WebRTC · Node.js · Express · Socket.IO · Supabase Realtime</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://weather-app-hissu.vercel.app">
-        <b>🌤️ Weatherly</b>
-      </a>
-      <br/>
-      <sub>Live weather with city search & 7-day forecast</sub>
+    <td width="33%" valign="top">
+      <a href="https://kroop.vercel.app"><img src="assets/projects/kroop.png" alt="kroop app screenshot"></a>
+      <h3><a href="https://kroop.vercel.app">kroop</a></h3>
+      A real-time party room: a 5-character code, a live player list, room chat, and mini-games like Tic-Tac-Toe and Connect Four, with winner-stays rotation.
+      <br><br>
+      <sub>React · Vite · Tailwind CSS · Supabase (Postgres + Realtime)</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://hasnain.is-a.dev">
-        <b>💼 Portfolio</b>
-      </a>
-      <br/>
-      <sub>Personal portfolio & resume site</sub>
+    <td width="33%" valign="top">
+      <a href="https://weather-app-hissu.vercel.app"><img src="assets/projects/weatherly.png" alt="Weatherly app screenshot"></a>
+      <h3><a href="https://weather-app-hissu.vercel.app">Weatherly</a></h3>
+      Search any city for current conditions and a 7-day forecast, with debounced autocomplete and clean loading and error states.
+      <br><br>
+      <sub>React · Open-Meteo API · fetch / async · CSS</sub>
     </td>
   </tr>
 </table>
 
----
+## What I build with
 
-## 📊 GitHub Stats
+<a href="https://hasnain.is-a.dev/#skills"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,supabase,postgres,git,vercel&perline=12" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Vite, Node.js, Express, Supabase, Postgres, Git, Vercel"></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HissuHere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HissuHere&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-</p>
+Currently learning: SQL and Postgres properly, through Supabase on real projects. MongoDB is next.
 
----
+## Before the web
 
-<p align="center">
-  <em>✨ Always learning, always building. Thanks for stopping by! ✨</em>
-</p>
+- **Roblox** (2023 to now): gameplay systems in Luau, with event triggers, timers and player interaction.
+- **Minecraft** (2025 to now): private servers with custom worlds, redstone and command-block automation.
+- **QGroundControl** (2026): modified UI layout components in the open-source Qt/QML ground control app.
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <img alt="My GitHub contribution graph, eaten by a snake" src="dist/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<sub>Building something almost every day. The full CV is at <a href="https://hasnain.is-a.dev">hasnain.is-a.dev</a>.</sub>
